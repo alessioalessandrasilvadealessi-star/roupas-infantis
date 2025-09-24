@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo Infantil - Pequenos de Estilo Brasil</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #fafafa; color: #333; }
+    header { background: #ff6699; color: #fff; padding: 1rem; text-align: center; position: sticky; top: 0; z-index: 1000; }
+    header nav a { color: #fff; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    section { padding: 2rem 1rem; }
+    h2 { color: #ff3366; margin-bottom: 1rem; }
+    .produtos { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; }
+    .produto { background: #fff; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); text-align: center; }
+    .produto img { max-width: 100%; border-radius: 8px; margin-bottom: .5rem; cursor: pointer; transition: transform 0.2s; }
+    .produto img:hover { transform: scale(1.05); }
+    footer { background: #333; color: #fff; text-align: center; padding: 1rem; margin-top: 2rem; }
+    footer a { color: #ff6699; text-decoration: none; font-weight: bold; }
+
+    /* Lightbox */
+    .lightbox { display: none; position: fixed; z-index: 2000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto;
+                background-color: rgba(0,0,0,0.9); }
+    .lightbox-content { margin: 5% auto; display: block; max-width: 90%; max-height: 80%; }
+    .lightbox-close { position: absolute; top: 20px; right: 35px; color: #fff; font-size: 40px; font-weight: bold; cursor: pointer; }
+    .lightbox-close:hover { color: #ff6699; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pequenos de Estilo Brasil</h1>
+  <nav>
+    <a href="#inicio">Início</a>
+    <a href="#meninos">Meninos</a>
+    <a href="#meninas">Meninas</a>
+    <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section id="inicio">
+  <h2>Bem-vindo ao Catálogo Infantil</h2>
+  <p>Moda infantil de 0 a 12 anos - conforto, estilo e diversão para meninos e meninas.</p>
+</section>
+
+<section id="meninos">
+  <h2>Catálogo Meninos</h2>
+  <div class="produtos">
+    
+        <div class="produto">
+          <img src="images/menino1_modelo.jpg" alt="Menino 1 Modelo" onclick="openLightbox('images/menino1_modelo.jpg')">
+          <img src="images/menino1_roupa.jpg" alt="Menino 1 Roupa" onclick="openLightbox('images/menino1_roupa.jpg')">
+          <h3>Produto 1 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino2_modelo.jpg" alt="Menino 2 Modelo" onclick="openLightbox('images/menino2_modelo.jpg')">
+          <img src="images/menino2_roupa.jpg" alt="Menino 2 Roupa" onclick="openLightbox('images/menino2_roupa.jpg')">
+          <h3>Produto 2 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino3_modelo.jpg" alt="Menino 3 Modelo" onclick="openLightbox('images/menino3_modelo.jpg')">
+          <img src="images/menino3_roupa.jpg" alt="Menino 3 Roupa" onclick="openLightbox('images/menino3_roupa.jpg')">
+          <h3>Produto 3 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino4_modelo.jpg" alt="Menino 4 Modelo" onclick="openLightbox('images/menino4_modelo.jpg')">
+          <img src="images/menino4_roupa.jpg" alt="Menino 4 Roupa" onclick="openLightbox('images/menino4_roupa.jpg')">
+          <h3>Produto 4 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino5_modelo.jpg" alt="Menino 5 Modelo" onclick="openLightbox('images/menino5_modelo.jpg')">
+          <img src="images/menino5_roupa.jpg" alt="Menino 5 Roupa" onclick="openLightbox('images/menino5_roupa.jpg')">
+          <h3>Produto 5 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino6_modelo.jpg" alt="Menino 6 Modelo" onclick="openLightbox('images/menino6_modelo.jpg')">
+          <img src="images/menino6_roupa.jpg" alt="Menino 6 Roupa" onclick="openLightbox('images/menino6_roupa.jpg')">
+          <h3>Produto 6 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino7_modelo.jpg" alt="Menino 7 Modelo" onclick="openLightbox('images/menino7_modelo.jpg')">
+          <img src="images/menino7_roupa.jpg" alt="Menino 7 Roupa" onclick="openLightbox('images/menino7_roupa.jpg')">
+          <h3>Produto 7 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino8_modelo.jpg" alt="Menino 8 Modelo" onclick="openLightbox('images/menino8_modelo.jpg')">
+          <img src="images/menino8_roupa.jpg" alt="Menino 8 Roupa" onclick="openLightbox('images/menino8_roupa.jpg')">
+          <h3>Produto 8 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino9_modelo.jpg" alt="Menino 9 Modelo" onclick="openLightbox('images/menino9_modelo.jpg')">
+          <img src="images/menino9_roupa.jpg" alt="Menino 9 Roupa" onclick="openLightbox('images/menino9_roupa.jpg')">
+          <h3>Produto 9 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino10_modelo.jpg" alt="Menino 10 Modelo" onclick="openLightbox('images/menino10_modelo.jpg')">
+          <img src="images/menino10_roupa.jpg" alt="Menino 10 Roupa" onclick="openLightbox('images/menino10_roupa.jpg')">
+          <h3>Produto 10 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino11_modelo.jpg" alt="Menino 11 Modelo" onclick="openLightbox('images/menino11_modelo.jpg')">
+          <img src="images/menino11_roupa.jpg" alt="Menino 11 Roupa" onclick="openLightbox('images/menino11_roupa.jpg')">
+          <h3>Produto 11 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menino12_modelo.jpg" alt="Menino 12 Modelo" onclick="openLightbox('images/menino12_modelo.jpg')">
+          <img src="images/menino12_roupa.jpg" alt="Menino 12 Roupa" onclick="openLightbox('images/menino12_roupa.jpg')">
+          <h3>Produto 12 - Menino</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+  </div>
+</section>
+
+<section id="meninas">
+  <h2>Catálogo Meninas</h2>
+  <div class="produtos">
+    
+        <div class="produto">
+          <img src="images/menina1_modelo.jpg" alt="Menina 1 Modelo" onclick="openLightbox('images/menina1_modelo.jpg')">
+          <img src="images/menina1_roupa.jpg" alt="Menina 1 Roupa" onclick="openLightbox('images/menina1_roupa.jpg')">
+          <h3>Produto 1 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina2_modelo.jpg" alt="Menina 2 Modelo" onclick="openLightbox('images/menina2_modelo.jpg')">
+          <img src="images/menina2_roupa.jpg" alt="Menina 2 Roupa" onclick="openLightbox('images/menina2_roupa.jpg')">
+          <h3>Produto 2 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina3_modelo.jpg" alt="Menina 3 Modelo" onclick="openLightbox('images/menina3_modelo.jpg')">
+          <img src="images/menina3_roupa.jpg" alt="Menina 3 Roupa" onclick="openLightbox('images/menina3_roupa.jpg')">
+          <h3>Produto 3 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina4_modelo.jpg" alt="Menina 4 Modelo" onclick="openLightbox('images/menina4_modelo.jpg')">
+          <img src="images/menina4_roupa.jpg" alt="Menina 4 Roupa" onclick="openLightbox('images/menina4_roupa.jpg')">
+          <h3>Produto 4 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina5_modelo.jpg" alt="Menina 5 Modelo" onclick="openLightbox('images/menina5_modelo.jpg')">
+          <img src="images/menina5_roupa.jpg" alt="Menina 5 Roupa" onclick="openLightbox('images/menina5_roupa.jpg')">
+          <h3>Produto 5 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina6_modelo.jpg" alt="Menina 6 Modelo" onclick="openLightbox('images/menina6_modelo.jpg')">
+          <img src="images/menina6_roupa.jpg" alt="Menina 6 Roupa" onclick="openLightbox('images/menina6_roupa.jpg')">
+          <h3>Produto 6 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina7_modelo.jpg" alt="Menina 7 Modelo" onclick="openLightbox('images/menina7_modelo.jpg')">
+          <img src="images/menina7_roupa.jpg" alt="Menina 7 Roupa" onclick="openLightbox('images/menina7_roupa.jpg')">
+          <h3>Produto 7 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina8_modelo.jpg" alt="Menina 8 Modelo" onclick="openLightbox('images/menina8_modelo.jpg')">
+          <img src="images/menina8_roupa.jpg" alt="Menina 8 Roupa" onclick="openLightbox('images/menina8_roupa.jpg')">
+          <h3>Produto 8 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina9_modelo.jpg" alt="Menina 9 Modelo" onclick="openLightbox('images/menina9_modelo.jpg')">
+          <img src="images/menina9_roupa.jpg" alt="Menina 9 Roupa" onclick="openLightbox('images/menina9_roupa.jpg')">
+          <h3>Produto 9 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina10_modelo.jpg" alt="Menina 10 Modelo" onclick="openLightbox('images/menina10_modelo.jpg')">
+          <img src="images/menina10_roupa.jpg" alt="Menina 10 Roupa" onclick="openLightbox('images/menina10_roupa.jpg')">
+          <h3>Produto 10 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina11_modelo.jpg" alt="Menina 11 Modelo" onclick="openLightbox('images/menina11_modelo.jpg')">
+          <img src="images/menina11_roupa.jpg" alt="Menina 11 Roupa" onclick="openLightbox('images/menina11_roupa.jpg')">
+          <h3>Produto 11 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina12_modelo.jpg" alt="Menina 12 Modelo" onclick="openLightbox('images/menina12_modelo.jpg')">
+          <img src="images/menina12_roupa.jpg" alt="Menina 12 Roupa" onclick="openLightbox('images/menina12_roupa.jpg')">
+          <h3>Produto 12 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+
+        <div class="produto">
+          <img src="images/menina13_modelo.jpg" alt="Menina 13 Modelo" onclick="openLightbox('images/menina13_modelo.jpg')">
+          <img src="images/menina13_roupa.jpg" alt="Menina 13 Roupa" onclick="openLightbox('images/menina13_roupa.jpg')">
+          <h3>Produto 13 - Menina</h3>
+          <p>Descrição detalhada do tecido, faixa etária (0 a 12 anos) e tamanhos disponíveis.</p>
+        </div>
+  </div>
+</section>
+
+<footer id="contato">
+  <p>📞 WhatsApp: <a href="https://wa.me/5593981330377" target="_blank">+55 93 98133-0377</a></p>
+  <p>📧 Email: <a href="mailto:pequenosdeestilobrasil@gmail.com">pequenosdeestilobrasil@gmail.com</a></p>
+  <p>&copy; 2025 Pequenos de Estilo Brasil</p>
+</footer>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <img class="lightbox-content" id="lightbox-img">
+</div>
+
+<script>
+  function openLightbox(src) {
+    document.getElementById('lightbox').style.display = 'block';
+    document.getElementById('lightbox-img').src = src;
+  }
+  function closeLightbox() {
+    document.getElementById('lightbox').style.display = 'none';
+  }
+  window.onclick = function(event) {
+    let lb = document.getElementById('lightbox');
+    if (event.target == lb) {
+      lb.style.display = 'none';
+    }
+  }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,161 @@
+# PROMPTS COMPLETOS PARA 50 IMAGENS (25 produtos × 2 cada)
+# Copie o prompt, gere a imagem no seu motor de IA (Stable Diffusion, Midjourney, LeonardoAI, etc.)
+# Salve cada arquivo com o nome indicado para substituir os placeholders do site.
+
+====================================
+CATÁLOGO MENINOS (12 produtos)
+====================================
+
+1. Body bebê Dinossauro Verde
+- Salvar como: menino1_modelo.jpg
+Prompt: Photorealistic photo of a 1-year-old Black baby boy, sitting on a colorful play mat in a cozy nursery, wearing a light green cotton bodysuit with cartoon dinosaurs. Natural daylight, warm tones, shallow depth of field, realistic skin and fabric textures.
+- Salvar como: menino1_roupa.jpg
+Prompt: Studio product photo of a light green baby bodysuit with colorful dinosaur prints, pure white seamless background, softbox lighting, subtle shadow, showing cotton fabric texture and snap buttons.
+
+2. Camiseta Super-Herói Vermelha
+- Salvar como: menino2_modelo.jpg
+Prompt: Photorealistic image of a 6-year-old White boy playing in a bedroom, wearing a bright red cotton T-shirt with a bold black web-and-spider emblem (superhero inspired). Natural window light, relaxed smiling pose, focus on shirt details.
+- Salvar como: menino2_roupa.jpg
+Prompt: E-commerce studio photo of a red short-sleeve kids T-shirt with black spider-web motif, isolated on white background, flat-lay or mannequin torso, even lighting, cotton fabric texture visible.
+
+3. Conjunto Futebol Azul e Branco
+- Salvar como: menino3_modelo.jpg
+Prompt: 8-year-old Pardo boy sitting on sofa with a soccer ball, wearing blue jersey with white stripes and white shorts. Natural indoor lighting, casual smiling pose, photorealistic detail of sporty outfit.
+- Salvar como: menino3_roupa.jpg
+Prompt: Studio product photo of kids soccer set (blue short-sleeve jersey + white shorts with blue stripes), laid flat on pure white background, studio lighting.
+
+4. Camiseta Carros Colorida
+- Salvar como: menino4_modelo.jpg
+Prompt: 5-year-old Black boy playing with toy cars on the floor, wearing a white cotton T-shirt with colorful cartoon car prints. Bright room, playful mood, photorealistic fabric detail.
+- Salvar como: menino4_roupa.jpg
+Prompt: Studio photo of white kids T-shirt with colorful car pattern, pure white background, cotton knit detail.
+
+5. Bermuda Jeans Infantil
+- Salvar como: menino5_modelo.jpg
+Prompt: 7-year-old White boy standing in a bedroom, wearing denim shorts with elastic waistband. Neutral tones, casual pose, photorealistic.
+- Salvar como: menino5_roupa.jpg
+Prompt: Studio product photo: blue denim shorts for kids, pure white background, front-facing flat-lay, stitching detail visible.
+
+6. Conjunto Basquete
+- Salvar como: menino6_modelo.jpg
+Prompt: 9-year-old boy, light brown skin, holding a basketball in a bedroom, wearing sleeveless red jersey and black shorts with number print. Energetic, sporty, photorealistic.
+- Salvar como: menino6_roupa.jpg
+Prompt: Two-piece kids basketball outfit (red sleeveless jersey + black shorts with white number), pure white background.
+
+7. Camiseta Roblox Gamer
+- Salvar como: menino7_modelo.jpg
+Prompt: 10-year-old White boy sitting at a desk with a computer in a bedroom, wearing a black T-shirt with colorful "Roblox-inspired" print. Realistic lighting.
+- Salvar como: menino7_roupa.jpg
+Prompt: Black short-sleeve T-shirt with colorful gamer block print, pure white background.
+
+8. Macacão Ursinho Bege
+- Salvar como: menino8_modelo.jpg
+Prompt: 1-year-old fair-skinned baby crawling on nursery rug, wearing beige cotton onesie with bear face embroidery. Cozy lighting.
+- Salvar como: menino8_roupa.jpg
+Prompt: Beige baby romper with bear embroidery, isolated on white background.
+
+9. Jaqueta Azul Marinho
+- Salvar como: menino9_modelo.jpg
+Prompt: 8-year-old Black boy smiling, standing in living room, wearing navy blue zip-up jacket with hood. Natural lighting.
+- Salvar como: menino9_roupa.jpg
+Prompt: Kids navy blue zip hoodie jacket, pure white background.
+
+10. Conjunto Praia (Regata + Short)
+- Salvar como: menino10_modelo.jpg
+Prompt: 5-year-old boy playing indoors, wearing sleeveless yellow tank top and blue shorts with palm tree prints. Summer vibe, photorealistic.
+- Salvar como: menino10_roupa.jpg
+Prompt: Tank top (yellow) and shorts (blue palm print) set, flat-lay on white background.
+
+11. Camiseta Minecraft Verde
+- Salvar como: menino11_modelo.jpg
+Prompt: 9-year-old White boy sitting on rug, holding toy blocks, wearing a green T-shirt with pixelated cube pattern (Minecraft-inspired). Realistic lighting.
+- Salvar como: menino11_roupa.jpg
+Prompt: Green kids T-shirt with pixel block pattern, white seamless background.
+
+12. Calça Moletom Cinza
+- Salvar como: menino12_modelo.jpg
+Prompt: 7-year-old Pardo boy sitting cross-legged on floor, wearing gray sweatpants with side pockets and elastic waistband.
+- Salvar como: menino12_roupa.jpg
+Prompt: Gray kids sweatpants, elastic waistband and pockets visible, studio white background.
+
+====================================
+CATÁLOGO MENINAS (13 produtos)
+====================================
+
+1. Body bebê Unicórnio Rosa
+- Salvar como: menina1_modelo.jpg
+Prompt: 1-year-old White baby girl crawling on a nursery rug, wearing a pale pink bodysuit with rainbow unicorn print. Soft daylight, toys blurred in background.
+- Salvar como: menina1_roupa.jpg
+Prompt: Pink baby bodysuit with unicorn rainbow print, pure white background, cotton fabric texture visible.
+
+2. Vestido Princesa Azul (Frozen-inspired)
+- Salvar como: menina2_modelo.jpg
+Prompt: 7-year-old Black girl twirling in a living room, wearing light-blue princess dress with glittery tulle skirt and snowflake details. Warm indoor lighting.
+- Salvar como: menina2_roupa.jpg
+Prompt: Light-blue kids princess dress with layered tulle and snowflake embellishments, pure white background.
+
+3. Conjunto Fashion (Cropped + Jogger)
+- Salvar como: menina3_modelo.jpg
+Prompt: 10-year-old White girl posing in bedroom, wearing lilac cropped sweatshirt with gray jogger pants. Relaxed, modern vibe, photorealistic.
+- Salvar como: menina3_roupa.jpg
+Prompt: Lilac cropped sweatshirt + gray jogger pants set, isolated on white background.
+
+4. Vestido Minnie Vermelho
+- Salvar como: menina4_modelo.jpg
+Prompt: 6-year-old Parda girl smiling, wearing red dress with white polka dots and a bow at the waist (Minnie-inspired). Cozy lighting.
+- Salvar como: menina4_roupa.jpg
+Prompt: Red dress with white polka dots and bow, pure white background.
+
+5. Saia Jeans com Cinto Colorido
+- Salvar como: menina5_modelo.jpg
+Prompt: 8-year-old White girl standing by a bed, wearing blue denim skirt with colorful fabric belt. Neutral tones, photorealistic.
+- Salvar como: menina5_roupa.jpg
+Prompt: Blue denim skirt with colorful belt, flat-lay, white seamless background.
+
+6. Conjunto Verão Arco-Íris
+- Salvar como: menina6_modelo.jpg
+Prompt: 5-year-old Black girl playing indoors, wearing white T-shirt with rainbow print and pink shorts. Bright natural light.
+- Salvar como: menina6_roupa.jpg
+Prompt: White T-shirt with rainbow motif + pink shorts, flat-lay, pure white background.
+
+7. Vestido Princesa Roxo (Rapunzel-inspired)
+- Salvar como: menina7_modelo.jpg
+Prompt: 7-year-old White girl posing in bedroom, wearing purple princess dress with puff sleeves and tulle skirt. Warm daylight.
+- Salvar como: menina7_roupa.jpg
+Prompt: Purple kids princess dress with puff sleeves and tulle skirt, pure white background.
+
+8. Macacão Floral Rosa
+- Salvar como: menina8_modelo.jpg
+Prompt: 2-year-old Parda girl sitting on rug, wearing pink floral cotton romper with frilled sleeves. Cozy lighting.
+- Salvar como: menina8_roupa.jpg
+Prompt: Pink floral baby romper, isolated on white background.
+
+9. Camiseta Hello Kitty Branca
+- Salvar como: menina9_modelo.jpg
+Prompt: 6-year-old Asian girl sitting on chair in bedroom, wearing white T-shirt with cat face graphic (Hello Kitty-inspired). Realistic lighting.
+- Salvar como: menina9_roupa.jpg
+Prompt: White short-sleeve T-shirt with cat face graphic, pure white background.
+
+10. Conjunto Ballet Rosa
+- Salvar como: menina10_modelo.jpg
+Prompt: 5-year-old light brown girl standing in living room, wearing pink ballet set (short-sleeve top + pink tulle skirt). Photorealistic.
+- Salvar como: menina10_roupa.jpg
+Prompt: Kids ballet outfit: pink cotton top + tulle skirt, isolated on white background.
+
+11. Jaqueta Infantil Rosa Claro
+- Salvar como: menina11_modelo.jpg
+Prompt: 8-year-old Black girl standing in hallway, wearing light-pink hooded jacket zipped up. Natural lighting.
+- Salvar como: menina11_roupa.jpg
+Prompt: Light-pink kids hooded jacket, pure white background.
+
+12. Vestido Festa Dourado
+- Salvar como: menina12_modelo.jpg
+Prompt: 10-year-old White girl smiling, standing in living room, wearing golden party dress with satin bow at waist and tulle skirt. Warm indoor lighting.
+- Salvar como: menina12_roupa.jpg
+Prompt: Golden party dress with satin bow and tulle skirt, white seamless background.
+
+13. Calça Legging Estampada Corações
+- Salvar como: menina13_modelo.jpg
+Prompt: 7-year-old Black girl seated on rug, wearing white T-shirt and pink leggings with heart prints. Cozy, playful scene.
+- Salvar como: menina13_roupa.jpg
+Prompt: Pink leggings with red heart prints, isolated on white background.
